@@ -1,0 +1,14 @@
+C:\Users\midas\source\repos\StaticExercise\StaticExercise Console\bin\Debug\netcoreapp3.1\StaticExercise Console.exe
+C:\Users\midas\source\repos\StaticExercise\StaticExercise Console\bin\Debug\netcoreapp3.1\StaticExercise Console.deps.json
+C:\Users\midas\source\repos\StaticExercise\StaticExercise Console\bin\Debug\netcoreapp3.1\StaticExercise Console.runtimeconfig.json
+C:\Users\midas\source\repos\StaticExercise\StaticExercise Console\bin\Debug\netcoreapp3.1\StaticExercise Console.runtimeconfig.dev.json
+C:\Users\midas\source\repos\StaticExercise\StaticExercise Console\bin\Debug\netcoreapp3.1\StaticExercise Console.dll
+C:\Users\midas\source\repos\StaticExercise\StaticExercise Console\bin\Debug\netcoreapp3.1\StaticExercise Console.pdb
+C:\Users\midas\source\repos\StaticExercise\StaticExercise Console\obj\Debug\netcoreapp3.1\StaticExercise Console.csproj.AssemblyReference.cache
+C:\Users\midas\source\repos\StaticExercise\StaticExercise Console\obj\Debug\netcoreapp3.1\StaticExercise Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\midas\source\repos\StaticExercise\StaticExercise Console\obj\Debug\netcoreapp3.1\StaticExercise Console.AssemblyInfoInputs.cache
+C:\Users\midas\source\repos\StaticExercise\StaticExercise Console\obj\Debug\netcoreapp3.1\StaticExercise Console.AssemblyInfo.cs
+C:\Users\midas\source\repos\StaticExercise\StaticExercise Console\obj\Debug\netcoreapp3.1\StaticExercise Console.csproj.CoreCompileInputs.cache
+C:\Users\midas\source\repos\StaticExercise\StaticExercise Console\obj\Debug\netcoreapp3.1\StaticExercise Console.dll
+C:\Users\midas\source\repos\StaticExercise\StaticExercise Console\obj\Debug\netcoreapp3.1\StaticExercise Console.pdb
+C:\Users\midas\source\repos\StaticExercise\StaticExercise Console\obj\Debug\netcoreapp3.1\StaticExercise Console.genruntimeconfig.cache
